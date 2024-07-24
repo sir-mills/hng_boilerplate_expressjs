@@ -26,6 +26,7 @@
     "url": "https://github.com/hngprojects/hng_boilerplate_expressjs/issues"
   },
   "devDependencies": {
+    "@paystack/inline-js": "^2.19.2",
     "@types/express": "^4.17.21",
     "@types/fs-extra": "^11.0.4",
     "@types/jest": "^29.5.12",
@@ -42,6 +43,7 @@
     "@types/cors": "^2.8.17",
     "@types/jsonwebtoken": "^9.0.6",
     "@types/nodemailer": "^6.4.15",
+    "axios": "^1.7.2",
     "bcryptjs": "^2.4.3",
     "class-validator": "^0.14.1",
     "config": "^3.3.12",
